@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on my CV.
 - 🌱 I’m currently learning TypeScript
-- 🤔 I’m looking for help with TDD practices.
 - 💬 Ask me about anything!
 - 📫 How to reach me: [LinkedIn - Kristoferis Solovjov](https://www.linkedin.com/in/kristoferis-solovjov-126056242/)
 - ⚡ Fun fact: I love sailing, hate being wet.
